@@ -29,6 +29,8 @@ An IoT-based smart door locking system that uses the ESP32-CAM to stream live vi
 
 ## 🔌 Pin Connections (ESP32-CAM)
 
+![esp32camFTDI](/images/ESP32-CAM-FTDI-programmer.png)
+
 | Component   | Pin Connection  |
 |-------------|-----------------|
 | Servo       | GPIO13          |
@@ -60,6 +62,7 @@ An IoT-based smart door locking system that uses the ESP32-CAM to stream live vi
 - `code/` – Arduino sketches for streaming, locking, and SD card logging.
 - `report/` – Final project report PDF.
 - `notes/` – Known issues, debug logs, and what we learned.
+- `images/` – Project images.
 
 ---
 
