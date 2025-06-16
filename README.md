@@ -58,13 +58,17 @@ An IoT-based smart door locking system that uses the ESP32-CAM to stream live vi
 ## 📁 Project Structure
 
 - `code/` – Arduino sketches for streaming, locking, and SD card logging.
-- `images/` – Add your real-life images here.
 - `report/` – Final project report PDF.
 - `notes/` – Known issues, debug logs, and what we learned.
 
 ---
 
 ## 📖 How to Use
+
+- Download the repository
+- Get the correct hardware
+- Make connections
+- Run and flash the code with Arduino IDE
 
 ---
 
@@ -80,10 +84,8 @@ Even with partial success, this project taught us:
 
 ## 👥 Authors
 
-- **Aditya Chavan** – Project Lead, Programming, Documentation  
-- **Vrundarank Parite** – Hardware Assembly, Testing, Co-Development  
-- [@Aditya-Chavan](https://github.com/aditya8242)
-- [@Vrundarank](https://github.com/Vrundarank)
+- **Aditya Chavan** – Project Lead, Programming, Documentation [@Aditya-Chavan](https://github.com/aditya8242)
+- **Vrundarank Parite** – Hardware Assembly, Testing, Co-Development [@Vrundarank](https://github.com/Vrundarank)  
 
 ---
 
